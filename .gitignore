@@ -1,0 +1,7 @@
+Fisico.sql
+Apaga.sql
+Consultas.sql
+Controle.sql
+Popula.sql
+python/jdbc/*
+!python/jdbc/.gitkeep
